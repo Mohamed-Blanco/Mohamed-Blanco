@@ -14,5 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)
 [![Medium Badge](https://img.shields.io/badge/Medium-@Labiad-mouhamed?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@labiadmo920)](https://medium.com/@labiadmo920)
 
-
+## Projects 
+-  Some of the projects that worked on are pinned on my GitHub profile !
 
