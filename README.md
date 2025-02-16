@@ -9,6 +9,7 @@
 <!-- content -->
 
 ### Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+My name is Mohamed Labiad, and I am currently in my fourth year studying software engineering. I don't confine myself to one area; instead, I embrace a broad perspective across the field. I thrive on learning and understanding every aspect of computers, software, and hardware. 
 <!-- <img src="animations/wave.gif" height="30px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)
