@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="1000" src="https://github.com/Mohamed-Blanco/Mohamed-Blanco/blob/master/wallpaper4.png"  />
+  <img height="200" src="https://github.com/Mohamed-Blanco/Mohamed-Blanco/blob/master/wallpaper4.png"  />
 </div>
 
 ###
