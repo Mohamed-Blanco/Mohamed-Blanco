@@ -17,7 +17,6 @@ I'am Mohamed Labiad, and I'am currently in my fourth year studying software engi
 [![Medium Badge](https://img.shields.io/badge/Medium-@Labiad-mouhamed?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@labiadmo920)](https://medium.com/@labiadmo920)
 
 ## Projects 
--  Some of the projects that worked on are pinned on my GitHub profile ! :
 
 
 #### Build a High-Performance In-Memory Key-Value Store (KV Store) in C : 
