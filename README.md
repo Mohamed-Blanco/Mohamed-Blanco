@@ -8,9 +8,9 @@
 
 I'm Mohamed Labiad, a fourth-year software engineering student. I don’t confine myself to one area; I embrace a broad perspective across the field. I thrive on learning and understanding every aspect of computers, software, and hardware.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)] 
-[![Medium Badge](https://img.shields.io/badge/Medium-@Labiad-mouhamed?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@labiadmo920](https://medium.com/@labiadmo920)]
 
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)
+[![Medium Badge](https://img.shields.io/badge/Medium-@Labiad-mouhamed?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@labiadmo920)](https://medium.com/@labiadmo920)
 
 ---
 
