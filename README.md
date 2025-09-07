@@ -1,49 +1,65 @@
 <div align="center">
-  <img  src="https://github.com/Mohamed-Blanco/Mohamed-Blanco/blob/master/wallpaper4.png"  />
+  <img src="https://github.com/Mohamed-Blanco/Mohamed-Blanco/blob/master/wallpaper4.png" alt="Banner" width="80%" />
 </div>
 
+---
 
+# Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
+I'm **Mohamed Labiad**, a fourth-year software engineering student. I don’t confine myself to one area; I embrace a broad perspective across the field. I thrive on learning and understanding every aspect of **computers, software, and hardware**.
 
+---
 
-<!-- content -->
+## 📫 Connect with me
 
-# Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)  
+[![Medium](https://img.shields.io/badge/Medium-@Labiad-mouhamed-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@labiadmo920)
 
-I'am Mohamed Labiad, and I'am currently in my fourth year studying software engineering. I don't confine myself to one area; instead, I embrace a broad perspective across the field. I thrive on learning and understanding every aspect of computers, software, and hardware. 
-<!-- <img src="animations/wave.gif" height="30px"> -->
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)
-[![Medium Badge](https://img.shields.io/badge/Medium-@Labiad-mouhamed?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@labiadmo920)](https://medium.com/@labiadmo920)
+## 🚀 Current Project
 
-## Projects 
+### **High-Performance In-Memory Key-Value Store (KV Store) in C**  
+[GitHub Repository](https://github.com/Mohamed-Blanco/Remote-Dicionary-Server-in-C-Redis-)
 
+---
 
-### (Current Project) : Build a High-Performance In-Memory Key-Value Store (KV Store) in C : 
-https://github.com/Mohamed-Blanco/Remote-Dicionary-Server-in-C-Redis-
+## 💼 Previous Projects
 
-### Last Projects : 
-#### Built an NextJs Frontend Project for my Saas App Called OppSeeker : 
-https://github.com/Mohamed-Blanco/Job-Finding-WebApp-Nextjs
+### **OppSeeker - End-to-End SaaS**
+- **Frontend:** [GitHub](https://github.com/Mohamed-Blanco/Job-Finding-WebApp-Nextjs)  
+- **Backend:** [GitHub](https://github.com/Mohamed-Blanco/Job-Finding-WebApp-Nextjs)  
+- **Demo:** [oppseeker.app](https://oppseeker.app)
 
-#### Developed also the Backend Project for OppSeeker : 
+### **CIMR Project Tracker - Angular + Spring Boot**
+- **Frontend:** [GitHub](https://github.com/Mohamed-Blanco/CIMR-frontend)  
+- **Backend:** [GitHub](https://github.com/Mohamed-Blanco/CIMR-frontend)
 
+### **E-Commerce Website (PHP, MVC)**
+[GitHub](https://github.com/Mohamed-Blanco/e-commerce-website)
 
-#### Rebuilt CIMR’s legacy Excel-based project tracker into a secure Angular and Spring Boot web app : 
-https://github.com/Mohamed-Blanco/CIMR-frontend
+### **Pharmacie Management System (Java/JavaFX)**
+[GitHub](https://github.com/Mohamed-Blanco/Pharmacie-Management-System)
 
-#### Developed an E-comerce app using Pure Gold PHP based on the architecture pattern MVC :
-https://github.com/Mohamed-Blanco/e-commerce-website
+### **Android Infinite Quotes App (Angular/Capacitor)**
+[GitHub](https://github.com/Mohamed-Blanco/Pharmacie-Management-System)
 
-#### Developed an Full Management tool for a Pharmacie : 
-https://github.com/Mohamed-Blanco/Pharmacie-Management-System
+### **Simons Memory Game (JavaScript)**
+[GitHub](https://github.com/Mohamed-Blanco/Simons-Memory-Game)
 
-#### Built an Simons Memory Game : 
-https://github.com/Mohamed-Blanco/Simons-Memory-Game
+### **Moroccan Recipes App (Angular/Capacitor)**
+[GitHub](https://github.com/Mohamed-Blanco/Pharmacie-Management-System)
 
-#### Built an Heropage using Bootstrap 4 for an Dog adoptation charity : 
-https://github.com/Mohamed-Blanco/dogs-adoptation
+### **Tic Tac Toe (JavaScript)**
 
-#### Typical Weather app using HTML Javascript : 
-https://github.com/Mohamed-Blanco/weather-app
+### **Dog Adoption Hero Page (Bootstrap 4)**
+[GitHub](https://github.com/Mohamed-Blanco/dogs-adoptation)
 
+### **Weather App (HTML/JavaScript)**
+[GitHub](https://github.com/Mohamed-Blanco/weather-app)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px" alt="Thanks for visiting" />
+</div>
