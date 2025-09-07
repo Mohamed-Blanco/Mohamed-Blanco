@@ -53,8 +53,4 @@ https://github.com/Mohamed-Blanco/dogs-adoptation
 ### Weather App (HTML/JavaScript
 https://github.com/Mohamed-Blanco/weather-app
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px" alt="Thanks for visiting" />
-</div>
