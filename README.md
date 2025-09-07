@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Mohamed-Blanco/Mohamed-Blanco/blob/master/wallpaper4.png" alt="Banner" width="80%" />
+  <img  src="https://github.com/Mohamed-Blanco/Mohamed-Blanco/blob/master/wallpaper4.png"  />
 </div>
+
 
 ---
 
