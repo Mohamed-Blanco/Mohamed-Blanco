@@ -15,7 +15,7 @@ I'm Mohamed Labiad, a fourth-year software engineering student. I don’t confin
 ---
 
 ### (Current Project) High-Performance In-Memory Key-Value Store (KV Store in C
-[GitHub Repository](https://github.com/Mohamed-Blanco/Remote-Dicionary-Server-in-C-Redis-
+[GitHub Repository](https://github.com/Mohamed-Blanco/Remote-Dicionary-Server-in-C-Redis-)
 
 ---
 
