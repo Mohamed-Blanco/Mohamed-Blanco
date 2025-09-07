@@ -19,9 +19,10 @@ I'am Mohamed Labiad, and I'am currently in my fourth year studying software engi
 ## Projects 
 
 
-#### (Current Project) : Build a High-Performance In-Memory Key-Value Store (KV Store) in C : 
+### (Current Project) : Build a High-Performance In-Memory Key-Value Store (KV Store) in C : 
 https://github.com/Mohamed-Blanco/Remote-Dicionary-Server-in-C-Redis-
 
+### Last Projects : 
 #### Built an NextJs Frontend Project for my Saas App Called OppSeeker : 
 https://github.com/Mohamed-Blanco/Job-Finding-WebApp-Nextjs
 
