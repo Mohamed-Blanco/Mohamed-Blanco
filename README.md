@@ -13,7 +13,8 @@ I'm **Mohamed Labiad**, a fourth-year software engineering student. I don’t co
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Labiad_Mohamed-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/labiad-mohamed-499b3a1a7/)  
-[![Medium](https://img.shields.io/badge/Medium-@Labiad-mouhamed-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@labiadmo920)
+[![Medium Badge](https://img.shields.io/badge/Medium-@Labiad-mouhamed?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@labiadmo920)](https://medium.com/@labiadmo920)
+
 
 ---
 
